@@ -1,0 +1,12 @@
+body {
+background: pink;
+}
+
+h1 {
+width : 85%;
+background-color : white;
+}
+
+#camera { border: 2px dashed black;
+     width: 350px;
+     height: 300px; }
